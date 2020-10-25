@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="909.221" height="930.718" viewBox="0 0 909.221 930.718">
+  <g id="Group_24471" data-name="Group 24471" transform="translate(-350 -742)">
+    <g id="Group_23281" data-name="Group 23281">
+      <g id="Component_12_1" data-name="Component 12 – 1" transform="translate(953 742)">
+        <path id="Polygon_6" data-name="Polygon 6" d="M7.083,0l7.083,13.212H0Z" transform="translate(14.027 15.055) rotate(-172)" fill="#2a52c6"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="9" cy="9" r="9" transform="translate(252.028 157.77)" fill="#38a2ff"/>
+        <rect id="Rectangle_2783" data-name="Rectangle 2783" width="9" height="9" transform="translate(84.028 26.77)" fill="#f8ced7"/>
+        <path id="Polygon_7" data-name="Polygon 7" d="M7.51,0l7.51,12.437H0Z" transform="translate(295.6 230.886) rotate(45)" fill="#f8ced7"/>
+      </g>
+      <g id="small_particles" data-name="small particles" transform="translate(350 1629)">
+        <path id="Polygon_8" data-name="Polygon 8" d="M9.177,0l9.177,15.566H0Z" transform="matrix(0.891, 0.454, -0.454, 0.891, 159.205, 1.395)" fill="#2a52c6"/>
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.194" cy="4.194" r="4.194" transform="matrix(0.951, -0.309, 0.309, 0.951, 0, 35.739)" fill="#38a2ff"/>
+        <rect id="Rectangle_2846" data-name="Rectangle 2846" width="10.067" height="10.067" transform="matrix(0.951, -0.309, 0.309, 0.951, 35.266, 3.111)" fill="#f8ced7"/>
+      </g>
+    </g>
+  </g>
+</svg>

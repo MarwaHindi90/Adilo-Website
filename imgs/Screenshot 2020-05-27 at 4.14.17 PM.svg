@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="119" viewBox="0 0 1366 119">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 2302 200">
+      <image width="2302" height="200" xlink:href="Screenshot%202020-05-27%20at%204.14.17%20PM-image.png"/>
+    </pattern>
+  </defs>
+  <rect id="Screenshot_2020-05-27_at_4.14.17_PM" data-name="Screenshot 2020-05-27 at 4.14.17 PM" width="1366" height="119" opacity="0.6" fill="url(#pattern)" style="mix-blend-mode: darken;isolation: isolate"/>
+</svg>
